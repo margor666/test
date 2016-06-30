@@ -1,0 +1,6 @@
+{
+  "name": "temp",
+  "dependencies": {
+    "jquery": "1.11"
+  }
+}
